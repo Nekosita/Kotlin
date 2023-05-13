@@ -1,0 +1,8 @@
+もしもMyViewがビルド出来ない状況が出たなら　先にMinimun SDKをAPI16まで変えます
+
+
+項目が出来ない場合右ボタン押して　RUNしたらデバッグが出来ます
+
+
+建立及編輯執行/偵錯設定：
+https://developer.android.com/studio/run/rundebugconfig?hl=zh-tw
